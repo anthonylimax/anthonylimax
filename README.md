@@ -1,4 +1,4 @@
-## Oiii eu sou Anthony Lima
+## Oi eu sou Anthony Lima
 <div align="center">
   <a href="https://github.com/anthonylimax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonylimax&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
